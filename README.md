@@ -4,7 +4,7 @@ Wemos D1 Mini Terminal Board
 
 INFO
 ----
-PCB design is saved as an EAGLE project. Edit layers visible for top/bottom view.
+PCB design is saved as an EAGLE project. Edit layers visibility for top/bottom view.
 
 LICENSE
 -------
